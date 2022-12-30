@@ -1,0 +1,56 @@
+/* Head-Nav */
+
+.header-navv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20px;
+    width: 100%;
+    position: fixed;
+}
+
+
+ul.slimmenuu {
+	background-color:rgb(241, 241, 241);
+	width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0px;
+
+}
+
+ul.slimmenuu li {
+    position: relative;
+	display: inline-block;
+	text-align: left;
+	padding: 8px 18px 8px;
+    
+}
+
+
+
+ul.slimmenuu li a{
+    padding: 15px 0px 16px;
+}
+
+
+ul.slimmenuu > li > a {
+	color: black;
+	font-family: Tahoma;
+	font-size: 14px;
+}
+
+ul.slimmenuu li:hover{
+	color: #fff;
+    background: #1182C8;
+}
+
+ul.slimmenuu li a:hover{
+	color: #fff;
+   
+}
+
+
+
+
+
